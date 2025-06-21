@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SinthetikIndustries or Sinthetix for short.
+<!---- 👋 Hi, I’m @SinthetikIndustries or Sinthetix for short.
 - 👀 I’m interested in coding/languages of all types but mostly web development. Fascinated by the potential of AI.
 - 🌱 I’m currently learning React.js, Node.js, Vue.js, and getting more experience with Docker.
 - 💞️ I’m looking to collaborate on just about anything. Networking and learning is great.
